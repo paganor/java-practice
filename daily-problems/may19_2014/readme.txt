@@ -1,0 +1,1 @@
+Given a number less than 2^30, determine if the number is a Fibonacci Number or not. If it is return true, else false. Bonus points for optimized calculations of the Fibonacci Numbers.
