@@ -1,0 +1,1 @@
+We'll start the week off with a simple one. Today's problem is to create a program that takes in a directory on your computer and outputs the files and folders in that directory. Bonus points for differentiating between files and folders in your output.
